@@ -38,7 +38,6 @@ SAUCEDEMO-PLAYWRIGHT/
 │       │   └── youCart.feature
 │       └── fixtures/
 │           └── .gitkeep
-├── target/
 ├── playwright.config.ts
 ├── playwright.env
 ├── package.json
